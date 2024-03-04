@@ -1,0 +1,7 @@
+C:\Users\Pushkar11\Downloads\Demos\GoofyWebApp\.publish\GoofyWebApp.exe
+C:\Users\Pushkar11\Downloads\Demos\GoofyWebApp\.publish\appsettings.Development.json
+C:\Users\Pushkar11\Downloads\Demos\GoofyWebApp\.publish\appsettings.json
+C:\Users\Pushkar11\Downloads\Demos\GoofyWebApp\.publish\GoofyWebApp.dll
+C:\Users\Pushkar11\Downloads\Demos\GoofyWebApp\.publish\GoofyWebApp.deps.json
+C:\Users\Pushkar11\Downloads\Demos\GoofyWebApp\.publish\GoofyWebApp.runtimeconfig.json
+C:\Users\Pushkar11\Downloads\Demos\GoofyWebApp\.publish\GoofyWebApp.pdb
